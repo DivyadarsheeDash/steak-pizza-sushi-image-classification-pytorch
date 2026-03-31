@@ -1,2 +1,1 @@
-dataset link = https://www.kaggle.com/competitions/animal-clef-2026/data
-There are some errors in the last training testing part will debug soon
+model built from scratch like tiny vgg gave lot of loss and less accuracy on both train and test dataloader so used efficient net b0 (transfer learning)
